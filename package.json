@@ -4,7 +4,7 @@
   "description": "Using NFT and Zero Knowledge to enable privacy and traceability of data sharing on the Blockchain",
   "author": "Shivam",
   "dependencies": {
-    "@openzeppelin/contracts": "^2.3.0",
+    "@openzeppelin/contracts": "^4.4.2",
     "bootstrap": "4.3.1",
     "chai": "4.2.0",
     "chai-as-promised": "7.1.1",
